@@ -1,7 +1,7 @@
 # GIMP 3 AI Plugins
-
-![AI Edit in GIMP 3](aiedit/images/gimp-plugins.webp)
 not actually an improvement yet
+![AI Edit in GIMP 3](aiedit/images/gimp-plugins.webp)
+
 
 A collection of Python-based AI plugins for **GIMP 3** (GNU Image Manipulation Program), using the GIMP 3 Python API via PyGObject introspection.
 
